@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duasne-nilesh
+- 👋 Hi, I’m @Dusane-nilesh
 - 👀 I’m interested in Machine Learning, Data Science.
 - 🌱 I’m currently learning Natural Language Processing and working on CNN based project.
 - 📫 How to reach me - nileshkd33@gmail.com
